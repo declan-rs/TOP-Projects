@@ -1,0 +1,22 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+div {
+    background-color: pink;
+    width: 1000px;
+    margin: 10px auto;
+    border: 10px;
+    border-style: solid;
+    border-color: green;
+}
+
+/* img {
+    height: auto;
+    width: 1000px;
+} */

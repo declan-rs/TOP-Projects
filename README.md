@@ -3,3 +3,4 @@ These are all of the projects I have completed while working through The Odin Pr
 
 ## Foundations
 - [Recipes](foundations/recipes/)
+- [Recipes 2.0](foundations/recipes_with_styling)
