@@ -1,4 +1,4 @@
-# Project: Recipes
-Simple website with a homepage linking to various recipe pages. Made for HTML practice as a part of The Odin Project Foundations course.
+# Project: Recipes 2.0
+Updated recipes website, with added styling to the pages. Made to practice CSS fundamentals learnt in The Odin Project.
 
 All recipes taken from https://www.allrecipes.com/
